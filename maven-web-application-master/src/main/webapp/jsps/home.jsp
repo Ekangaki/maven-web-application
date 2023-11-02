@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies Pvt Ltd. Ph No: +91-9980923226  Bengaluru,Karnataka </h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to Afro Institute of Technology (AIT). Ph No: +1240643198  13203 Falling Water Court,Bowie, MD 20720 </h1>
+<h1 align="center"> Afro Institute of Technology (AIT)- Very Good Training center for DevOps with AWS & AWS Solution Architect in Maryland.Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,21 +34,20 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+91-9980923226,+91-9900012028
-		devopstrainingblr@gmail.com
+		Afro Institute of Technology (AIT), 
+		13023 Falling Water Court, Bowie Maryland 20720,
+		+1-2406431098,+1-3012421447
+		georgegedeon2012r@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:georgegedeon2012r@gmail.com">Mail to Afro Institute of Technology (AIT)</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center>Afro Institute of Technology (AIT) - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://georgegedeon2012@gmail.com/">Afro Institute of Technology (AIT),Maryland, USA</a> </small></p>
 
 </body>
 </html>
